@@ -36,4 +36,8 @@ public class LoginPage extends BasePage {
 	public boolean signUplinkchk() {
 		return driver.findElement(signUplink).isDisplayed();
 	}
+	
+	public void gitTest() {
+		System.out.println("This method is added to test Git");
+	}
 }
