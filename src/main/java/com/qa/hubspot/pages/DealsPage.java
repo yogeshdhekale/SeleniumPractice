@@ -5,6 +5,9 @@ import org.openqa.selenium.WebDriver;
 import com.qa.hubspot.BasePage.BasePage;
 
 public class DealsPage extends BasePage{
+	/*
+	 * Deals Page Methods
+	 */
 	
 	WebDriver driver;
 

@@ -10,6 +10,10 @@ public class DealsPageTest {
 	DealsPage deals;
 	WebDriver driver;
 
+	/*
+	 * This is test case for Deals Page
+	 * 
+	 */
 	
 	@Test
 	public void titlTest() {
