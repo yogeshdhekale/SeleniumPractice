@@ -84,4 +84,5 @@ public class HomePage extends BasePage{
 	
 	public void homePageVerifyTitle(){
 		System.out.println("Home Page verify title");
+	}
 }
