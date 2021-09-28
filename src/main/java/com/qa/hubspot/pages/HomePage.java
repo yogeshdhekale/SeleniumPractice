@@ -81,4 +81,8 @@ public class HomePage extends BasePage{
 		
 		//<a href="https://classic.freecrm.com/system/index.cfm?action=form" style="background: rgb(142, 68, 173);" title="Forms">Forms</a>
 	}
+	
+	public void homePageVerifyTitle(){
+		System.out.println("Home Page verify title");
+	}
 }
